@@ -1,0 +1,7 @@
+{
+  "name": "Voyage de Moha et Manele",
+  "description": "Une plateforme de planification de voyage intelligente alimentée par l'IA pour créer des itinéraires personnalisés avec des tarifs en temps réel.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
